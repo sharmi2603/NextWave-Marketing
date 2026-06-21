@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Marketing Agency",
+  "description": "A premium, high-performance web application representing a world-class digital marketing agency. Equipped with an immersive agency frontend showcase and an interactive client and administrative dashboard tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
