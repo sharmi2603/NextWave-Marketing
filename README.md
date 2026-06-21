@@ -2,6 +2,8 @@
 
 NextWave Marketing is a modern digital marketing agency website designed to help businesses establish a strong online presence and achieve sustainable growth. The platform offers services such as SEO optimization, website development, social media marketing, branding, and performance advertising.
 
+https://nextwave-marketing.vercel.app
+
 ## Features
 
 - Responsive and modern UI
